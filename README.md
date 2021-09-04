@@ -1,2 +1,2 @@
 # Test
-Creating this repository just for exploring and teasting.
+Creating this repository just for exploring and testing.
